@@ -1,0 +1,6 @@
+.alternateTR:nth-child(odd) {
+  background-color: #e6eaee;
+}
+.darkTR {
+  background-color: #e6eaee;
+}

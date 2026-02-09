@@ -1,0 +1,770 @@
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: fileUpload.js
+Loading model from file: fileUpload.js
+Model: FileUpload
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: masterDepartment.js
+Loading model from file: masterDepartment.js
+Model: MasterDepartment
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: masterExpenseStatus.js
+Loading model from file: masterExpenseStatus.js
+Model: MasterExpenseStatus
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: MasterExpenseType.js
+Loading model from file: MasterExpenseType.js
+Model: MasterExpenseType
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: masterTenderStatus.js
+Loading model from file: masterTenderStatus.js
+Model: MasterTenderStatus
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: Tender.js
+Loading model from file: Tender.js
+Model: Tender
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderAdditionalDetails.js
+Loading model from file: TenderAdditionalDetails.js
+Model: TenderAdditionalDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderApprovalDetails.js
+Loading model from file: TenderApprovalDetails.js
+Model: TenderApprovalDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderBasicDetails.js
+Loading model from file: TenderBasicDetails.js
+Model: TenderBasicDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderClosureDetails.js
+Loading model from file: TenderClosureDetails.js
+Model: TenderClosureDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderCorrigendum.js
+Loading model from file: TenderCorrigendum.js
+Model: TenderCorrigendum
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderCoverDetails.js
+Loading model from file: TenderCoverDetails.js
+Model: TenderCoverDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderCriticalDates.js
+Loading model from file: TenderCriticalDates.js
+Model: TenderCriticalDates
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderDocument.js
+Loading model from file: TenderDocument.js
+Model: TenderDocument
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderDocumentsForVerification.js
+Loading model from file: TenderDocumentsForVerification.js
+Model: TenderDocumentsForVerification
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderEligibilityCriteria.js
+Loading model from file: TenderEligibilityCriteria.js
+Model: TenderEligibilityCriteria
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderEmdFeeDetails.js
+Loading model from file: TenderEmdFeeDetails.js
+Model: TenderEmdFeeDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderFeeDetails.js
+Loading model from file: TenderFeeDetails.js
+Model: TenderFeeDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderFinancialClosure.js
+Loading model from file: TenderFinancialClosure.js
+Model: TenderFinancialClosure
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderFinancialProgress.js
+Loading model from file: TenderFinancialProgress.js
+Model: TenderFinancialProgress
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderL1ApprovalDetails.js
+Loading model from file: TenderL1ApprovalDetails.js
+Model: TenderL1ApprovalDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderLZeroDetails.js
+Loading model from file: TenderLZeroDetails.js
+Model: TenderLZeroDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderPhysicalProgress.js
+Loading model from file: TenderPhysicalProgress.js
+Model: TenderPhysicalProgress
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderSelectionDetails.js
+Loading model from file: TenderSelectionDetails.js
+Model: TenderSelectionDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderStampDetails.js
+Loading model from file: TenderStampDetails.js
+Model: TenderStampDetails
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderSubmittedDocument.js
+Loading model from file: TenderSubmittedDocument.js
+Model: TenderSubmittedDocument
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderSubmittedExpense.js
+Loading model from file: TenderSubmittedExpense.js
+Model: TenderSubmittedExpense
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: TenderWorkItems.js
+Loading model from file: TenderWorkItems.js
+Model: TenderWorkItems
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: user.js
+Loading model from file: user.js
+Model: User
+_dirname: E:\tendermanagementsystem\TenderProject\TenderManagementSystem.API\src\models
+_dirname: userRole.js
+Loading model from file: userRole.js
+Model: UserRole
+Starting Tender Management System Server...
+Using File Upload Path: ./uploads
+Using File Upload Max Size: 52428800 bytes
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'FileUploads' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `FileUploads`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'FileUploads' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `FileUploads` CHANGE `fileName` `fileName` VARCHAR(255);
+Executing (default): ALTER TABLE `FileUploads` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `FileUploads` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `FileUploads`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'MasterDepartment' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `MasterDepartment`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'MasterDepartment' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `MasterDepartment` CHANGE `departmentname` `departmentname` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `MasterDepartment` CHANGE `isactive` `isactive` TINYINT(1) DEFAULT true;
+Executing (default): SHOW INDEX FROM `MasterDepartment`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'MasterExpenseStatus' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `MasterExpenseStatus`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'MasterExpenseStatus' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `MasterExpenseStatus` CHANGE `name` `name` VARCHAR(255) NOT NULL;
+Executing (default): SHOW INDEX FROM `MasterExpenseStatus`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'MasterExpenseType' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `MasterExpenseType`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'MasterExpenseType' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `MasterExpenseType` CHANGE `expenseType` `expenseType` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `MasterExpenseType` CHANGE `expenseDescription` `expenseDescription` VARCHAR(255) NOT NULL;
+Executing (default): SHOW INDEX FROM `MasterExpenseType`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'MasterTenderStatus' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `MasterTenderStatus`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'MasterTenderStatus' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `MasterTenderStatus` CHANGE `name` `name` VARCHAR(255) NOT NULL;
+Executing (default): SHOW INDEX FROM `MasterTenderStatus`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'Tenders' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `Tenders`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'Tenders' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `Tenders` ADD FOREIGN KEY (`currentStatus`) REFERENCES `MasterTenderStatus` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `Tenders` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `Tenders` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `Tenders` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `Tenders` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `Tenders`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderAdditionalDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderAdditionalDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderAdditionalDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderAdditionalDetails` CHANGE `referencedBy` `referencedBy` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderAdditionalDetails` CHANGE `additionalFieldDict` `additionalFieldDict` JSON;
+Executing (default): ALTER TABLE `TenderAdditionalDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderAdditionalDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderAdditionalDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderAdditionalDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderAdditionalDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderApprovalDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderApprovalDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderApprovalDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `TechLeadApproval` `TechLeadApproval` ENUM('APPROVED', 'REJECTED');
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `TechLeadComments` `TechLeadComments` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `TechLeadApprover` `TechLeadApprover` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `TechLeadApprovedAt` `TechLeadApprovedAt` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `DirectorApproval` `DirectorApproval` ENUM('APPROVED', 'REJECTED');
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `DirectorComments` `DirectorComments` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `DirectorApprover` `DirectorApprover` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `DirectorApprovedAt` `DirectorApprovedAt` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderApprovalDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderApprovalDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderBasicDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderBasicDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderBasicDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `location` `location` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `tenderIdText` `tenderIdText` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `referenceNumber` `referenceNumber` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` ADD FOREIGN KEY (`department`) REFERENCES `MasterDepartment` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `departmentType` `departmentType` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `paymentMode` `paymentMode` ENUM('Online', 'DD', 'FDR');
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `offlinePaymentDetails` `offlinePaymentDetails` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `UTRNumber` `UTRNumber` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `paymentReceiptGuid` `paymentReceiptGuid` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `paymentReceiptFileName` `paymentReceiptFileName` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderBasicDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderBasicDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderClosureDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderClosureDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderClosureDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderClosureDetails` CHANGE `closureRemark` `closureRemark` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderClosureDetails` CHANGE `lessonsLearnt` `lessonsLearnt` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderClosureDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderClosureDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderClosureDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderClosureDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderClosureDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderCorrigendums' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderCorrigendums`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderCorrigendums' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderCorrigendums` ADD FOREIGN KEY (`tenderId`) REFERENCES `Tenders` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `corrigendumReceivedDate` `corrigendumReceivedDate` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `changes` `changes` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `tenderExtendDate` `tenderExtendDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderCorrigendums` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderCorrigendums`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderCoverDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderCoverDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderCoverDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderCoverDetails` CHANGE `docsDict` `docsDict` JSON;
+Executing (default): ALTER TABLE `TenderCoverDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderCoverDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderCoverDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderCoverDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderCoverDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderCriticalDates' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderCriticalDates`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderCriticalDates' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `publishDate` `publishDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `bidOpeningDate` `bidOpeningDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `downloadStartDate` `downloadStartDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `downloadEndDate` `downloadEndDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `clarificationStartDate` `clarificationStartDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `clarificationEndDate` `clarificationEndDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `submissionStartDate` `submissionStartDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `submissionEndDate` `submissionEndDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `extensionDate` `extensionDate` DATETIME;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderCriticalDates` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderCriticalDates`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderDocuments' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderDocuments`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderDocuments' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `guid` `guid` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `fileName` `fileName` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `fileList` `fileList` JSON NOT NULL;
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `govtLink` `govtLink` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderDocuments` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderDocuments`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderDocumentsForVerifications' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderDocumentsForVerifications`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderDocumentsForVerifications' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderDocumentsForVerifications` CHANGE `fileList` `fileList` JSON NOT NULL;
+Executing (default): ALTER TABLE `TenderDocumentsForVerifications` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderDocumentsForVerifications` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderDocumentsForVerifications` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderDocumentsForVerifications` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderDocumentsForVerifications`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderEligibilityCriteria' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderEligibilityCriteria`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderEligibilityCriteria' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `technicalEligible` `technicalEligible` TINYINT(1);
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `technical` `technical` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `financialEligible` `financialEligible` TINYINT(1);
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `financial` `financial` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `jointVenture` `jointVenture` TINYINT(1);
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `jointVenturePartner` `jointVenturePartner` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderEligibilityCriteria` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderEligibilityCriteria`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderEmdFeeDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderEmdFeeDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderEmdFeeDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderEmdFeeDetails` CHANGE `emdAmount` `emdAmount` FLOAT;
+Executing (default): ALTER TABLE `TenderEmdFeeDetails` CHANGE `exemptionEmd` `exemptionEmd` TINYINT(1);
+Executing (default): ALTER TABLE `TenderEmdFeeDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderEmdFeeDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderEmdFeeDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderEmdFeeDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderEmdFeeDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderFeeDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderFeeDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderFeeDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `tenderFee` `tenderFee` FLOAT;
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `processingFee` `processingFee` FLOAT;
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `exemptionTenderFee` `exemptionTenderFee` TINYINT(1);
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderFeeDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderFeeDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderFinancialClosures' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderFinancialClosures`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderFinancialClosures' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `emdAmountReceived` `emdAmountReceived` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `sdAmountReceived` `sdAmountReceived` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `comments` `comments` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialClosures` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderFinancialClosures`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderFinancialProgresses' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderFinancialProgresses`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderFinancialProgresses' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `clientname` `clientname` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `clientaddress` `clientaddress` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `issuingauthorityname` `issuingauthorityname` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `clientgstnumber` `clientgstnumber` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `clientpan` `clientpan` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `billsubmittedamount` `billsubmittedamount` DECIMAL(20,2) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `billpaymentreceived` `billpaymentreceived` DECIMAL(20,2) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `amountvariancereason` `amountvariancereason` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderFinancialProgresses` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderFinancialProgresses`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderL1ApprovalDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderL1ApprovalDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderL1ApprovalDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `loiReceived` `loiReceived` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `workOrderCost` `workOrderCost` DECIMAL(20,2) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `securityDepositAmount` `securityDepositAmount` DECIMAL(20,2) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `completedByDate` `completedByDate` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `agreementStampRequired` `agreementStampRequired` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `stampDutyAmount` `stampDutyAmount` DECIMAL(20,2) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `registrationFees` `registrationFees` DECIMAL(20,2) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `physicalStampRequired` `physicalStampRequired` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `numOfStampsRequired` `numOfStampsRequired` INTEGER;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `eSBTRRequired` `eSBTRRequired` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `panNo` `panNo` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `gstNo` `gstNo` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `otherPartyName` `otherPartyName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `otherDutyPayerId` `otherDutyPayerId` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `l1FileName` `l1FileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `l1Guid` `l1Guid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `loiFileName` `loiFileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `loiGuid` `loiGuid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `agreementFileName` `agreementFileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `agreementGuid` `agreementGuid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `workOrderFileName` `workOrderFileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `workOrderGuid` `workOrderGuid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderL1ApprovalDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderL1ApprovalDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderLZeroDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderLZeroDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderLZeroDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `BGNumber` `BGNumber` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `BGguid` `BGguid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `BGFileName` `BGFileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `BGAmount` `BGAmount` INTEGER NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `serialNumber` `serialNumber` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `dateOfIssue` `dateOfIssue` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `dateOfExpiry` `dateOfExpiry` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `dateOfClaimMax` `dateOfClaimMax` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `isAddBGRequired` `isAddBGRequired` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `addBGAmount` `addBGAmount` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `addBGguid` `addBGguid` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `addBGFileName` `addBGFileName` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderLZeroDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderLZeroDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderPhysicalProgresses' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderPhysicalProgresses`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderPhysicalProgresses' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `physicalTrackingSetUp` `physicalTrackingSetUp` JSON NOT NULL;
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `physicalTrackingProgress` `physicalTrackingProgress` JSON;
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `fileName` `fileName` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `guid` `guid` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderPhysicalProgresses` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderPhysicalProgresses`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderSelectionDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderSelectionDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderSelectionDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `govStatus` `govStatus` ENUM('L1', 'L2', 'L3') NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `technicalSelected` `technicalSelected` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `financialSelected` `financialSelected` TINYINT(1) NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `tenderAllocatedCompany` `tenderAllocatedCompany` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `remarks` `remarks` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderSelectionDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderSelectionDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderStampDetails' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderStampDetails`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderStampDetails' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `stampRequired` `stampRequired` TINYINT(1);
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `stampDetails` `stampDetails` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `qty100` `qty100` INTEGER;
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `qty500` `qty500` INTEGER;
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `qty1000` `qty1000` INTEGER;
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderStampDetails` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderStampDetails`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderSubmittedDocuments' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderSubmittedDocuments`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderSubmittedDocuments' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `guid` `guid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `fileName` `fileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `openingDate` `openingDate` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedDocuments` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderSubmittedDocuments`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'UserRoles' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `UserRoles`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'UserRoles' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `UserRoles` CHANGE `roleName` `roleName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `UserRoles` CHANGE `roleDescription` `roleDescription` VARCHAR(255);
+Executing (default): ALTER TABLE `UserRoles` CHANGE `isActive` `isActive` TINYINT(1) DEFAULT true;
+Executing (default): ALTER TABLE `UserRoles` CHANGE `createddate` `createddate` DATETIME;
+Executing (default): ALTER TABLE `UserRoles` CHANGE `dlemails` `dlemails` VARCHAR(255) DEFAULT '';
+Executing (default): ALTER TABLE `UserRoles` CHANGE `createdBy` `createdBy` VARCHAR(255) DEFAULT 'System';
+Executing (default): ALTER TABLE `UserRoles` CHANGE `updateddate` `updateddate` DATETIME;
+Executing (default): ALTER TABLE `UserRoles` CHANGE `updatedBy` `updatedBy` VARCHAR(255) DEFAULT 'System';
+Executing (default): ALTER TABLE `UserRoles` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `UserRoles` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `UserRoles`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'Users' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `Users`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'Users' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `Users` CHANGE `username` `username` VARCHAR(255);
+Executing (default): ALTER TABLE `Users` CHANGE `passwordhash` `passwordhash` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `Users` ADD FOREIGN KEY (`department`) REFERENCES `MasterDepartment` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `Users` ADD FOREIGN KEY (`userRoleId`) REFERENCES `UserRoles` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `Users` CHANGE `contactinfo` `contactinfo` VARCHAR(255);
+Executing (default): ALTER TABLE `Users` CHANGE `email` `email` VARCHAR(255);
+Executing (default): ALTER TABLE `Users` CHANGE `isactive` `isactive` TINYINT(1) DEFAULT true;
+Executing (default): ALTER TABLE `Users` CHANGE `createddate` `createddate` DATETIME;
+Executing (default): ALTER TABLE `Users` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `Users` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `Users` CHANGE `updateddate` `updateddate` DATETIME;
+Executing (default): SHOW INDEX FROM `Users`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderSubmittedExpenses' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderSubmittedExpenses`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderSubmittedExpenses' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` ADD FOREIGN KEY (`tenderId`) REFERENCES `Tenders` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `expenseamount` `expenseamount` FLOAT NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` ADD FOREIGN KEY (`expenseTypeId`) REFERENCES `MasterExpenseType` (`id`) ON DELETE NO ACTION ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `expenseSubTypeId` `expenseSubTypeId` INTEGER NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `expenseDetails` `expenseDetails` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `justification` `justification` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` ADD FOREIGN KEY (`userId`) REFERENCES `Users` (`userid`) ON DELETE NO ACTION ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `invoicenumber` `invoicenumber` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `receiptGuid` `receiptGuid` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `receiptFileName` `receiptFileName` VARCHAR(255) NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `TechLeadApproval` `TechLeadApproval` ENUM('APPROVED', 'REJECTED');
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `TechLeadComments` `TechLeadComments` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `TechLeadApprover` `TechLeadApprover` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `TechLeadApprovedAt` `TechLeadApprovedAt` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `DirectorApproval` `DirectorApproval` ENUM('APPROVED', 'REJECTED');
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `DirectorComments` `DirectorComments` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `DirectorApprover` `DirectorApprover` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `DirectorApprovedAt` `DirectorApprovedAt` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `FinanceApproval` `FinanceApproval` ENUM('APPROVED', 'REJECTED');
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `FinanceComments` `FinanceComments` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `FinanceApprover` `FinanceApprover` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `FinanceApprovedAt` `FinanceApprovedAt` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `FinancePaidAmount` `FinancePaidAmount` FLOAT;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `FinanceTDSAmount` `FinanceTDSAmount` FLOAT;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `paymentProofFileGuid` `paymentProofFileGuid` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `paymentProofFileName` `paymentProofFileName` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `paymentDate` `paymentDate` DATETIME;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` ADD FOREIGN KEY (`currentStatus`) REFERENCES `MasterExpenseStatus` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderSubmittedExpenses` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderSubmittedExpenses`
+Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'TenderWorkItems' AND TABLE_SCHEMA = 'tendermanagementsystem'
+Executing (default): SHOW FULL COLUMNS FROM `TenderWorkItems`;
+Executing (default): SELECT CONSTRAINT_NAME as constraint_name,CONSTRAINT_NAME as constraintName,CONSTRAINT_SCHEMA as constraintSchema,CONSTRAINT_SCHEMA as constraintCatalog,TABLE_NAME as tableName,TABLE_SCHEMA as tableSchema,TABLE_SCHEMA as tableCatalog,COLUMN_NAME as columnName,REFERENCED_TABLE_SCHEMA as referencedTableSchema,REFERENCED_TABLE_SCHEMA as referencedTableCatalog,REFERENCED_TABLE_NAME as referencedTableName,REFERENCED_COLUMN_NAME as referencedColumnName FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE where TABLE_NAME = 'TenderWorkItems' AND CONSTRAINT_NAME!='PRIMARY' AND CONSTRAINT_SCHEMA='tendermanagementsystem' AND REFERENCED_TABLE_NAME IS NOT NULL;
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `title` `title` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `productCategory` `productCategory` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `location` `location` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `preBidAddress` `preBidAddress` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `preBidDate` `preBidDate` DATETIME;
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `preBidExtension` `preBidExtension` VARCHAR(255);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `isPreBidding` `isPreBidding` TINYINT(1);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `isPreBiddingSite` `isPreBiddingSite` TINYINT(1);
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `createdby` `createdby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `updatedby` `updatedby` VARCHAR(255) NOT NULL DEFAULT 'System';
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `createdAt` `createdAt` DATETIME NOT NULL;
+Executing (default): ALTER TABLE `TenderWorkItems` CHANGE `updatedAt` `updatedAt` DATETIME NOT NULL;
+Executing (default): SHOW INDEX FROM `TenderWorkItems`
+Executing (default): INSERT INTO `UserRoles` (`id`,`roleName`,`roleDescription`,`isActive`,`createddate`,`dlemails`,`createdBy`,`updateddate`,`updatedBy`,`createdAt`,`updatedAt`) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`roleName`=VALUES(`roleName`),`roleDescription`=VALUES(`roleDescription`),`dlemails`=VALUES(`dlemails`),`updatedAt`=VALUES(`updatedAt`);
+Executing (default): INSERT INTO `UserRoles` (`id`,`roleName`,`roleDescription`,`isActive`,`createddate`,`dlemails`,`createdBy`,`updateddate`,`updatedBy`,`createdAt`,`updatedAt`) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`roleName`=VALUES(`roleName`),`roleDescription`=VALUES(`roleDescription`),`dlemails`=VALUES(`dlemails`),`updatedAt`=VALUES(`updatedAt`);
+Executing (default): INSERT INTO `UserRoles` (`id`,`roleName`,`roleDescription`,`isActive`,`createddate`,`dlemails`,`createdBy`,`updateddate`,`updatedBy`,`createdAt`,`updatedAt`) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`roleName`=VALUES(`roleName`),`roleDescription`=VALUES(`roleDescription`),`dlemails`=VALUES(`dlemails`),`updatedAt`=VALUES(`updatedAt`);
+Executing (default): INSERT INTO `UserRoles` (`id`,`roleName`,`roleDescription`,`isActive`,`createddate`,`dlemails`,`createdBy`,`updateddate`,`updatedBy`,`createdAt`,`updatedAt`) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`roleName`=VALUES(`roleName`),`roleDescription`=VALUES(`roleDescription`),`dlemails`=VALUES(`dlemails`),`updatedAt`=VALUES(`updatedAt`);
+Executing (default): INSERT INTO `UserRoles` (`id`,`roleName`,`roleDescription`,`isActive`,`createddate`,`dlemails`,`createdBy`,`updateddate`,`updatedBy`,`createdAt`,`updatedAt`) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`roleName`=VALUES(`roleName`),`roleDescription`=VALUES(`roleDescription`),`dlemails`=VALUES(`dlemails`),`updatedAt`=VALUES(`updatedAt`);
+Executing (default): INSERT INTO `UserRoles` (`id`,`roleName`,`roleDescription`,`isActive`,`createddate`,`dlemails`,`createdBy`,`updateddate`,`updatedBy`,`createdAt`,`updatedAt`) VALUES (?,?,?,?,?,?,?,?,?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`roleName`=VALUES(`roleName`),`roleDescription`=VALUES(`roleDescription`),`dlemails`=VALUES(`dlemails`),`updatedAt`=VALUES(`updatedAt`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterTenderStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterExpenseStatus` (`id`,`name`) VALUES (?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`name`=VALUES(`name`);
+Executing (default): INSERT INTO `MasterDepartment` (`id`,`departmentname`,`isactive`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`departmentname`=VALUES(`departmentname`);
+Executing (default): INSERT INTO `MasterDepartment` (`id`,`departmentname`,`isactive`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`departmentname`=VALUES(`departmentname`);
+Executing (default): INSERT INTO `MasterDepartment` (`id`,`departmentname`,`isactive`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`departmentname`=VALUES(`departmentname`);
+Executing (default): INSERT INTO `MasterDepartment` (`id`,`departmentname`,`isactive`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`departmentname`=VALUES(`departmentname`);
+Executing (default): INSERT INTO `MasterDepartment` (`id`,`departmentname`,`isactive`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`departmentname`=VALUES(`departmentname`);
+Executing (default): INSERT INTO `MasterDepartment` (`id`,`departmentname`,`isactive`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`departmentname`=VALUES(`departmentname`);
+Adding Master Expense Type:  {
+  id: 1,
+  expenseType: 'Site Visit - Various Site Visits',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 2,
+  expenseType: 'Tender Process - Tender Fees',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  { id: 3, expenseType: 'Tender Process - EMD', expenseDescription: '' }
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 4,
+  expenseType: 'Tender Process - Stamp & Notary',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 5,
+  expenseType: 'Tender Process - Printouts',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 6,
+  expenseType: 'SitePreProcessing - Land Worship Flex/Banner',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 7,
+  expenseType: 'SitePreProcessing - Weigh Bridge',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 8,
+  expenseType: 'SitePreProcessing - Total Station Survey',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 9,
+  expenseType: 'SitePreProcessing - Base Line Survey',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 10,
+  expenseType: 'SitePreProcessing - Bio Culture Purchase',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 11,
+  expenseType: 'SitePreProcessing -Safety Equipments / Installation (CCTV)',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 12,
+  expenseType: 'SitePreProcessing - Printer & Computer Purchased & Site Material',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 13,
+  expenseType: 'SitePreProcessing - Drone Survey',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 14,
+  expenseType: 'Machinary Setup - Transport',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 15,
+  expenseType: 'Machinary Setup - Installation (Machinery) (GPS)',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 16,
+  expenseType: 'Machinary Setup - Machine and Material Expense',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 17,
+  expenseType: 'Machinary Setup - Civl Construction',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 18,
+  expenseType: 'Site Processing/Disposal - Diesel',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 19,
+  expenseType: 'Site Processing/Disposal - Material Shifting and Disposal- RDF',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 20,
+  expenseType: 'Site Processing/Disposal - Soil',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 21,
+  expenseType: 'Site Processing/Disposal - Inert',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 22,
+  expenseType: 'Machinery/Electronic Expense /Food Expense - Machinery Rent/EMI',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 23,
+  expenseType: 'Machinery/Electronic Expense /Food Expense - Electronic Expense',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 24,
+  expenseType: 'Machinery/Electronic Expense /Food Expense - Machnical Machinery Exp',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 25,
+  expenseType: 'Machinery/Electronic Expense /Food Expense - Machine Maintainence',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 26,
+  expenseType: 'Machinery/Electronic Expense /Food Expense - Operator Food',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 27,
+  expenseType: 'Reimbursement - Lodging',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 28,
+  expenseType: 'Reimbursement - Travel',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 29,
+  expenseType: 'Reimbursement - Food and aqua',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 30,
+  expenseType: 'Site Expense - Room Rent,Furniture Required',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 31,
+  expenseType: 'Site Expense -  Electricity Exp.(Elec Room Rent, Site Elec,Elec room Cons.)',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 32,
+  expenseType: 'Manpower - Security Guard',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 32,
+  expenseType: 'Manpower - Labour Charges',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  { id: 32, expenseType: 'Manpower - Salary', expenseDescription: '' }
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 33,
+  expenseType: 'Other - Stationery/Printing',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  {
+  id: 33,
+  expenseType: 'Other - Misc. Expense',
+  expenseDescription: ''
+}
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Adding Master Expense Type:  { id: 33, expenseType: 'KBC', expenseDescription: '' }
+Executing (default): INSERT INTO `MasterExpenseType` (`id`,`expenseType`,`expenseDescription`) VALUES (?,?,?) ON DUPLICATE KEY UPDATE `id`=VALUES(`id`),`expenseType`=VALUES(`expenseType`),`expenseDescription`=VALUES(`expenseDescription`);
+Executing (default): SELECT `userid` AS `userId`, `username` AS `name`, `passwordhash` AS `passwordHash`, `department`, `userRoleId`, `contactinfo` AS `contactInfo`, `email`, `isactive` AS `isActive`, `createddate` AS `createdDate`, `createdby` AS `createdBy`, `updatedby` AS `updatedBy`, `updateddate` AS `updatedDate` FROM `Users` AS `User` WHERE `User`.`userid` = 'admin';
+Running daily status check job...
+Daily status job disabled via configuration.
+Executing (default): SELECT `TenderCriticalDates`.`tenderId`, `TenderCriticalDates`.`publishDate`, `TenderCriticalDates`.`bidOpeningDate`, `TenderCriticalDates`.`downloadStartDate`, `TenderCriticalDates`.`downloadEndDate`, `TenderCriticalDates`.`clarificationStartDate`, `TenderCriticalDates`.`clarificationEndDate`, `TenderCriticalDates`.`submissionStartDate`, `TenderCriticalDates`.`submissionEndDate`, `TenderCriticalDates`.`extensionDate`, `TenderCriticalDates`.`createdby` AS `createdBy`, `TenderCriticalDates`.`updatedby` AS `updatedBy`, `TenderCriticalDates`.`createdAt`, `TenderCriticalDates`.`updatedAt`, `Tender->TenderBasicDetail`.`tenderId` AS `Tender.TenderBasicDetail.tenderId`, `Tender->TenderBasicDetail`.`department` AS `Tender.TenderBasicDetail.department`, `Tender->TenderBasicDetail`.`tenderIdText` AS `Tender.TenderBasicDetail.tenderIdText` FROM `TenderCriticalDates` AS `TenderCriticalDates` LEFT OUTER JOIN `Tenders` AS `Tender` ON `TenderCriticalDates`.`tenderId` = `Tender`.`id` LEFT OUTER JOIN `TenderBasicDetails` AS `Tender->TenderBasicDetail` ON `Tender`.`id` = `Tender->TenderBasicDetail`.`tenderId` WHERE (`TenderCriticalDates`.`clarificationStartDate` BETWEEN '2026-02-07 11:51:18' AND '2026-02-10 11:51:18' OR `TenderCriticalDates`.`clarificationEndDate` BETWEEN '2026-02-07 11:51:18' AND '2026-02-10 11:51:18' OR `TenderCriticalDates`.`submissionStartDate` BETWEEN '2026-02-07 11:51:18' AND '2026-02-10 11:51:18' OR `TenderCriticalDates`.`submissionEndDate` BETWEEN '2026-02-07 11:51:18' AND '2026-02-10 11:51:18');
+Listening on port \\.\pipe\741fbd96-0d04-4496-b4e5-9ce15ba35faa
+No tenders with critical dates in the next 3 days.
