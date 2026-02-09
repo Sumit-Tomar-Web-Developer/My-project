@@ -1,0 +1,10 @@
+build
+dist
+node_modules
+models-mod
+.DS_Store
+/idea
+/.idea
+jasper-runner
+
+package-lock.json

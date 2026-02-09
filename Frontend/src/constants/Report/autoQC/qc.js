@@ -1,0 +1,56 @@
+export const API_BASE_URL = 'http://localhost:4000';
+//Missing Photo Plan
+export const MISSING_PHOTO_PLAN = `${ API_BASE_URL }/missing-photo-plan`;
+export const MISSING_DATA = `${ API_BASE_URL }/missing-data`;
+export const MISSING_PROPERTY_NO = `${ API_BASE_URL }/missing-property-no`;
+export const MISSING_TOILET_DATA= `${ API_BASE_URL }/missing-toilet`;
+export const NONTAXABLE_PROPERTY= `${ API_BASE_URL }/nontaxable-property`;
+export const TAXABLE_PROPERTY= `${ API_BASE_URL }/taxable-property`;
+export const DUPLICATE_PROPERTY_FLOOR= `${ API_BASE_URL }/duplicate-property-floor`;
+export const ZERO_CARPETAREA_PROPERTIES= `${ API_BASE_URL }/zero-carpetArea-properties`;
+export const CONSTRUCTION_RENT= `${ API_BASE_URL }/construction-rent`;
+export const OLDRV_HAVING_ZERO_NETTAX= `${ API_BASE_URL }/oldRV-NoNetTax`;
+export const PROPERTIES_RENT= `${ API_BASE_URL }/properties-rent`;
+export const OLDTAX_GT_OLDRV= `${ API_BASE_URL }/oldtax-gt-oldrv`;
+export const OLD_WITHOUT_TAX_RV= `${ API_BASE_URL }/old-without-tax-rv`;
+export const ZERO_TAX_RV_OLD_PROPERTIES= `${ API_BASE_URL }/zero-tax-rv-old-properties`;
+export const OLD_TAX_PRESENT_NETZERO= `${ API_BASE_URL }/old-tax-present-net-zero`;
+export const PROPERTY_DESC_MISMATCH= `${ API_BASE_URL }/property-desc-mismatch`;
+export const EMP_TAX_RESIDENTIAL= `${ API_BASE_URL }/emp-tax-residential`;
+export const EMP_TAX_EXEMPT_COMMERCIAL= `${ API_BASE_URL }/emp-tax-exempt-commercial`;
+export const EDU_TAX_EXEMPT_RESIDENTIAL= `${ API_BASE_URL }/edu-tax-exempt-residential`;
+export const EDU_TAX_EXEMPT_COMMERCIAL= `${ API_BASE_URL }/edu-tax-exempt-commercial`;
+export const ZERO_TAX_PROPERTY_LIST= `${ API_BASE_URL }/zero-tax-property-list`;
+export const HOLDER_LIST= `${ API_BASE_URL }/holder-list`;
+export const MUTATION_LIST= `${ API_BASE_URL }/mutation-list`;
+export const PROPERTIES_CHART= `${ API_BASE_URL}/properties-chart`;
+export const ZONING_LIST= `${ API_BASE_URL }/zoning-list`;
+export const CURRENT_APPEAL_STATUS= `${ API_BASE_URL }/current-appeal-status`;
+export const AUTO_APPEAL_COMMITTEE= `${ API_BASE_URL }/auto-appeal-committee`;
+export const AUTO_HEARING_LIST= `${ API_BASE_URL }/auto-hearing-list`;
+export const OPEN_PLOT_PROPERTIES= `${ API_BASE_URL }/open-plot-properties`;
+export const OBLIQUE_PROPERTIES= `${ API_BASE_URL }/oblique-properties`;
+export const CONSTRUCTION_PROPERTIES= `${ API_BASE_URL }/construction-properties`;
+export const GET_LIST_BY_TAX_RANGE= `${ API_BASE_URL }/get-list-by-tax-range`;
+export const GET_NEW_TAX_LESS_OLD_TAX= `${ API_BASE_URL }/new-tax-less-old-tax`;
+export const PROPERTY_DESC_MATCH= `${ API_BASE_URL }/property-desc-match`;
+export const GET_NEW_TAX_GREATER_OLD_TAX= `${ API_BASE_URL }/new-tax-greater-old-tax`;
+export const DATA_ENTRY_GAP= `${ API_BASE_URL }/data-entry-gap`;
+export const GET_FLAT_DETAILS= `${ API_BASE_URL }/get-flat-details`;
+export const GET_ROOM_COMPARISION_DETAILS= `${ API_BASE_URL }/get-room-carpet-comparison`;
+export const GET_TOILET_AREA_COMPARISION_DETAILS= `${ API_BASE_URL }/get-toilet-area-comparison`;
+export const GET_SQ_FT_COMPARISION_DETAILS= `${ API_BASE_URL }/get-sq-ft-comparison`;
+
+export const SUBMISSION_AREA_MISMATCH= `${ API_BASE_URL }/submission-area-mismatch`;
+export const SUBMISSION_ROOM_NO_MISMATCH= `${ API_BASE_URL }/submission-room-no-mismatch`;
+export const SUBMISSION_MISSING= `${ API_BASE_URL }/submission-missing`;
+export const ROOM_NO_REPEAT= `${ API_BASE_URL }/room-no-repeat`;
+export const LENGTH_ZERO_AREA_GT_ZERO= `${ API_BASE_URL }/length-zero-area-gt-zero`;
+export const LENGTH_WIDTH_ZERO_AREA_GT_ZERO= `${ API_BASE_URL }/length-width-zero-area-gt-zero`;
+export const AREA_TOTAL_IS_MINUS_YES= `${ API_BASE_URL }/area-total-is-minus-yes`;
+export const UTILITY_ROOM_COUNT= `${ API_BASE_URL }/utility-room-count`; 
+//AMC  
+export const INVOICE_REPORT= `${ API_BASE_URL }/invoice-report`;  
+export const TRANSACTION_REPORT= `${ API_BASE_URL }/transaction-report`;  
+export const ADVANCE_AND_BILLBOOK_REPORT= `${ API_BASE_URL }/advance-and-billbook-report`;  
+ 

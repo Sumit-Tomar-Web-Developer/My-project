@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Mangal">
+        <normal>fonts/Mangal-400.ttf</normal>
+        <bold>fonts/Mangal-400.ttf</bold>
+        <italic>fonts/Mangal-400.ttf</italic>
+        <boldItalic>fonts/Mangal-400.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+    </fontFamily>
+</fontFamilies>
